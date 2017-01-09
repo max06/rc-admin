@@ -1,0 +1,17 @@
+{
+  "name": "rc-admin1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ioredis": "^2.5.0",
+    "redis-info": "^3.0.6",
+    "socket.io": "^1.7.2"
+  }
+}
