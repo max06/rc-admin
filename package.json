@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
+    "express-vue": "^3.3.0",
     "ioredis": "^2.5.0",
     "redis-info": "^3.0.6",
     "socket.io": "^1.7.2"
